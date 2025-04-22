@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IPControl</string>
+    <string name="ip_control_software">IP Control Software</string>
+    <string name="ip_address">IP Address</string>
+    <string name="port">Port</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
